@@ -1,1 +1,1 @@
-export const notes = [];
+export const notes: any[] = [];
