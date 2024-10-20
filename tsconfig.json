@@ -1,5 +1,10 @@
 {
-    "compilerOptions": {
-      "esModuleInterop": true,
-    }
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
   }
+}
